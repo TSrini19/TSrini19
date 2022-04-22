@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ROS and also working on upgrading my technical skills.
 - 💞️ I'll be very hapy to work on any collaborative projects and hope to be a vital part of the team.
 - 📫 Thank you for visiting my github portfolio. Do, go through my repositories and let's catch up soon. 
-- All the best!!!
+- :+1: All the best!!!
 
 <!---
 TSrini19/TSrini19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
